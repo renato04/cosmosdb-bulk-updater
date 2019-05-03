@@ -3,3 +3,5 @@
 .cache/
 .vscode
 venv*
+*.egg*
+dist
