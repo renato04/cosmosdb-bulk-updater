@@ -7,6 +7,10 @@ A package to update a tons of documents in Microsoft CosmosDB
 It executes a query and iterate all the items executing an update function defined by the user. This query
 will be executed until it return any result
 
+**Installing**
+
+`pip install cosmosdb-bulk-updater`
+
 **Usage**
 
 The sample bellow show how to add a new field into the all database documents
